@@ -5,4 +5,4 @@
 - **Mã SV**: BIT220052
 
 ## Ảnh Chụp Màn Hình
-![alt](anhketqua.png)
+![alt](Anh.jpg)
